@@ -10,12 +10,15 @@ Me chamo Thayani Macegossa, tenho 25 anos. Atualmente, estou cursando o último 
 
   <a href="https://www.linkedin.com/in/thayani-macegossa/">
         <img 
+            align="left" 
             alt=" Linkedin" 
             title="LinkedIn" 
+            width="30px" 
+            style="padding-right: 12px;" 
             src="https://cdn-icons-png.flaticon.com/512/179/179330.png"
         />
   </a>
-
+<br>
 </p>
 
 ---
